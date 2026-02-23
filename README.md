@@ -1,6 +1,6 @@
 # Phishing URL Detection
 
-A machine learning project that classifies URLs as **Phishing** or **Legitimate** using Logistic Regression. Built by Prince Chukwuemeka.
+A machine learning project that classifies URLs as **Phishing** or **Legitimate** using Logistic Regression. 
 
 ## Overview
 
